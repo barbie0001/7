@@ -1,0 +1,7 @@
+D:\Microsoft VS Code\practos7\practos7\bin\Debug\practos7.exe.config
+D:\Microsoft VS Code\practos7\practos7\bin\Debug\practos7.exe
+D:\Microsoft VS Code\practos7\practos7\bin\Debug\practos7.pdb
+D:\Microsoft VS Code\practos7\practos7\obj\Debug\practos7.csproj.AssemblyReference.cache
+D:\Microsoft VS Code\practos7\practos7\obj\Debug\practos7.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code\practos7\practos7\obj\Debug\practos7.exe
+D:\Microsoft VS Code\practos7\practos7\obj\Debug\practos7.pdb
